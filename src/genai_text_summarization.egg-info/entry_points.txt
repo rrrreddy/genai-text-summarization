@@ -1,0 +1,2 @@
+[console_scripts]
+genai-text-summarizer = src.api.app:main

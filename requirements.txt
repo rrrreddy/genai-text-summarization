@@ -6,3 +6,4 @@ pdfplumber
 python-docx
 SpeechRecognition
 pydub
+-e .

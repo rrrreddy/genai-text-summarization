@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: genai-text-summarization
+Version: 0.1.0
+Summary: This is a simple project to summarize text using transformers and Gradio.
+Home-page: https://github.com/rrrreddy/GenAI-Text-Summarizer
+Author: rrrreddy
+Author-email: rrrreddy07@gmail.com
+Project-URL: Bug Tracker, https://github.com/rrrreddy/GenAI-Text-Summarizer/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Project Documentation
+Describe your project here.
