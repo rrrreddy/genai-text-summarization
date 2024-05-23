@@ -24,8 +24,8 @@ GenAI Text Summarizer is a powerful and flexible text summarization tool that le
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your_github_username/GenAI-text-summarizer.git
-    cd GenAI-text-summarizer
+    git clone https://github.com/rrrreddy/genai-text-summarization.git
+    cd genai-text-summarization
     ```
 
 2. **Create and Activate a Virtual Environment**
@@ -84,5 +84,5 @@ Logs are written to logs/app.log in the project directory. Ensure you check this
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgments
-Thanks to the Hugging Face team for providing amazing tools and models.
-Gradio for their intuitive interface framework.
+- Thanks to the Hugging Face team for providing amazing tools and models.
+- Gradio for their intuitive interface framework.
