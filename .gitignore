@@ -1,0 +1,5 @@
+#python project .ignore files
+
+.env/*
+.env
+env

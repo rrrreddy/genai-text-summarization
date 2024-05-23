@@ -2,5 +2,7 @@
 gradio
 transformers
 torch
-pydub
+pdfplumber
+python-docx
 SpeechRecognition
+pydub
