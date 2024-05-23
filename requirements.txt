@@ -1,0 +1,6 @@
+# Project dependencies.
+gradio
+transformers
+torch
+pydub
+SpeechRecognition
